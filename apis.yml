@@ -1,0 +1,78 @@
+aid: helion-energy
+name: Helion Energy
+description: >-
+  Helion Energy is a fusion energy company headquartered in Everett, Washington
+  pursuing a pulsed, magneto-inertial field-reversed-configuration (FRC) approach
+  that uses a deuterium-helium-3 fuel cycle and direct electricity recovery
+  rather than steam turbines. The company is on its seventh-generation
+  prototype, Polaris, which achieved first plasma in 2024 and is targeted to
+  demonstrate net electricity production from fusion. Helion's prior machines
+  include Trenta, the sixth-generation prototype that reached fusion-relevant
+  plasma temperatures, and Hercules, an earlier device. Orion is Helion's
+  planned first commercial fusion power plant, with a publicly announced 2028
+  target for delivering electricity to Microsoft under what the companies
+  describe as the world's first commercial fusion power purchase agreement; a
+  second customer agreement is in place with steelmaker Nucor. Helion is led by
+  co-founder and CEO David Kirtley, CTO Chris Pihl, Chief Scientist George
+  Votroubek, and co-founder Anthony Pancotti. Investors include Sam Altman
+  (chair), Dustin Moskovitz, Reid Hoffman, SoftBank Vision Fund 2, Mithril
+  Capital, Capricorn Investment Group, Peter Thiel, and others. Helion does not
+  publish a public developer API or SDK.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fusion Energy
+  - Field-Reversed Configuration
+  - FRC
+  - Pulsed Fusion
+  - Deuterium Helium-3
+  - Polaris
+  - Trenta
+  - Orion
+  - Direct Energy Conversion
+  - Clean Energy
+  - Microsoft PPA
+  - Everett Washington
+url: https://raw.githubusercontent.com/api-evangelist/helion-energy/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.helionenergy.com
+  - type: Technology
+    url: https://www.helionenergy.com/technology
+  - type: Polaris
+    url: https://www.helionenergy.com/polaris
+  - type: Orion
+    url: https://www.helionenergy.com/orion
+  - type: Trenta
+    url: https://www.helionenergy.com/trenta
+  - type: Hercules
+    url: https://www.helionenergy.com/hercules
+  - type: About
+    url: https://www.helionenergy.com/about
+  - type: Newsroom
+    url: https://www.helionenergy.com/newsroom
+  - type: Blog
+    url: https://www.helionenergy.com/blog
+  - type: FAQ
+    url: https://www.helionenergy.com/faq
+  - type: Careers
+    url: https://www.helionenergy.com/careers
+  - type: Contact
+    url: https://www.helionenergy.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/helion-energy
+  - type: Twitter
+    url: https://twitter.com/Helion_Energy
+  - type: YouTube
+    url: https://www.youtube.com/@helionenergy
+  - type: Instagram
+    url: https://www.instagram.com/helion_energy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
